@@ -1,2 +1,7 @@
-# uplift_b3_learning_journal_1
-Python for Data and AI  - Learning Journal Output #1
+# Uplift Bootcamp  - Python for Data and AI
+##Part 1: Core Requirements
+1. Question 1
+2. Question 2
+3. Question 3
+4. Question 4
+5. Question 5
