@@ -20,5 +20,7 @@ Answer: During freelance work, I watched the operations team start using AI to g
 
 Answer: What interests me most is recommendation engines and demand forecasting in retail I built an e-commerce app (The Coloring Bliss) with a payment integration, so I already know what it's like to watch real transactions flow through a system. What I couldn't do at the time was use that transaction data to actually predict anything which products to restock, which customers were likely to buy again. Seeing that gap in my own project is what makes this application concrete to me rather than abstract.
 
+### 4. What do you hope to build by the end of the 20 weeks?
 
+Answer: By the end of the 20 weeks, I want to build a full-stack application that goes beyond what I could do with just Java/MERN something like an e-commerce or sales dashboard that doesn't just display data, but actually predicts something useful from it, like which products are likely to sell out or which customers are at risk of not coming back. I already know how to build the application layer; what I want out of this bootcamp is the ability to put a real model inside it instead of just static logic, and deploy the whole thing as a working product I can point to.
 
