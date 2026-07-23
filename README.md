@@ -32,7 +32,7 @@ My question is: If AI adoption is part of why the Philippine IT-BPM sector recen
 
 ## Part 2: Applied Deep-Dive - Based on my previous freelancing project.
 
-**Industry: Finance**
+*Industry: Finance*
 
 ### What real problem does AI solve in this industry?
 
