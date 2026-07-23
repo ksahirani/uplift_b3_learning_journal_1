@@ -30,3 +30,14 @@ Answer: One thing that clicked today was the "How These Fields Relate" diagram I
 
 My question is: If AI adoption is part of why the Philippine IT-BPM sector recently revised its 2028 hiring targets downward, what does the number of new data/AI jobs available by the time I finish this bootcamp actually mean, compared to the jobs that AI itself is displacing in other roles?
 
+## Part 2: Applied Deep-Dive - Based on my previous freelancing project.
+
+**Industry: Finance**
+
+### What real problem does AI solve in this industry?
+
+Answer: Financial institutions use AI primarily for **fraud detection** - flagging transactions that
+deviate from a customer's normal spending pattern in real time, before money actually leaves
+an account. The real problem this solves is scale: a human reviewer cannot manually check
+millions or thousands of transactions a day, but a model trained on historical fraud cases can score each
+transaction in milliseconds and flag the suspicious ones for review. -- My Example here is Bud the AI bot.
