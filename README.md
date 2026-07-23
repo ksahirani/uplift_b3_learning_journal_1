@@ -12,5 +12,9 @@ Bliss, including a PayMongo payment integration). I've also done freelance work 
 firsthand how operations teams are starting to lean on AI for things like sales reporting
 which is part of what pulled me toward this field.
 
+### 2. Why did you join the bootcamp? What brought you here, specifically?
+
+Answer: During freelance work, I watched the operations team start using AI to generate sales reports work that used to take people hours was suddenly automated in minutes. That was the moment it clicked that this shift isn't coming, it's already here, and I didn't want to be someone who has to catch up to it later. Coming from a Java/Spring Boot and MERN background, I already knew how to build software; I joined this bootcamp specifically to add the data and AI layer on top of that so I'm not just building applications, but building the intelligent parts of them too.
+
 
 
