@@ -41,3 +41,23 @@ deviate from a customer's normal spending pattern in real time, before money act
 an account. The real problem this solves is scale: a human reviewer cannot manually check
 millions or thousands of transactions a day, but a model trained on historical fraud cases can score each
 transaction in milliseconds and flag the suspicious ones for review. -- My Example here is Bud the AI bot.
+
+### What data would a system need to solve it?
+
+Answer: A system like this needs transaction-level data (amount, merchant, location, time), account
+history (typical spending patterns per user), and labeled examples of past confirmed fraud
+to train on. Device and location metadata often gets added too, to catch account takeovers.
+
+### What could go wrong if the system is biased, wrong, or misused and who would that affect?
+
+Answer: The risk is that these models are trained on **historical** fraud labels, which means they
+inherit whatever blind spots or biases existed in how fraud was investigated in the past.
+
+A biased model could disproportionately flag legitimate transactions from certain
+demographics or regions as **suspicious** freezing accounts and blocking access to someone's
+own money based on a pattern correlation rather than actual wrongdoing.
+
+A real harm that falls hardest on the customers least able to absorb the disruption (small business owners,
+people living paycheck to paycheck).
+
+This is exactly why the **"Historical outcomes baked into labels"** bias watch-out from today's Responsible AI discussion matters here specifically: the labels themselves encode the past, and the past isn't necessarily fair.
