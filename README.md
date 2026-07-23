@@ -24,3 +24,9 @@ Answer: What interests me most is recommendation engines and demand forecasting 
 
 Answer: By the end of the 20 weeks, I want to build a full-stack application that goes beyond what I could do with just Java/MERN something like an e-commerce or sales dashboard that doesn't just display data, but actually predicts something useful from it, like which products are likely to sell out or which customers are at risk of not coming back. I already know how to build the application layer; what I want out of this bootcamp is the ability to put a real model inside it instead of just static logic, and deploy the whole thing as a working product I can point to.
 
+### 5. Reflect on one thing you learned today and one question you still have?
+
+Answer: One thing that clicked today was the "How These Fields Relate" diagram I used to think Data Science was just a subset of AI, but it actually sits alongside it, using ML as one of several tools rather than being contained by it.
+
+My question is: If AI adoption is part of why the Philippine IT-BPM sector recently revised its 2028 hiring targets downward, what does the number of new data/AI jobs available by the time I finish this bootcamp actually mean, compared to the jobs that AI itself is displacing in other roles?
+
